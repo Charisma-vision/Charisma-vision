@@ -24,36 +24,7 @@
 </div>
 
 <h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
-
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. achelor of Engineering (BEng) in Computer Software Engineering (3.85)</p><br>
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -98,14 +69,9 @@
 </table>
 <br>
 
-------
-### Contatos: 
-<p align='left'>
-   <a href="https://www.linkedin.com/in/christian-roberto40/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:christian2020022014@gmail.com"></a>&nbsp;&nbsp;
- </p>
+
 
  ------
-**Credits :** [codediaz](https://github.com/codediaz)
+**Credits :** [codediaz](https://github.com/Charisma-vision)
 
-**Last Edited on:** 06/04/2024
+**Last Edited on:** 09/14/2024
